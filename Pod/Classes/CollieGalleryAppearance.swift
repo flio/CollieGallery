@@ -39,5 +39,5 @@ open class CollieGalleryAppearance: NSObject {
     var activityIndicatorColor = UIColor.white
     
     /// The color of the close button icon
-    var closeButtonColor = UIColor.white
+    public var closeButtonColor = UIColor.white
 }
